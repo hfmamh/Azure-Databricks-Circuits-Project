@@ -59,7 +59,7 @@ fs_path_presentation="abfss://gold@datamainperu.dfs.core.windows.net"
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC #### Rutas montadas
+# MAGIC #### Mounted path
 
 # COMMAND ----------
 
