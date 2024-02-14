@@ -48,7 +48,7 @@ mount_container("datamainperu","gold")
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC #### Rutas directas
+# MAGIC #### Direct path
 
 # COMMAND ----------
 
